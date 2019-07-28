@@ -14,7 +14,7 @@
 
 ## Требования к проекту
 
-1. OpenCV 4.1.0 с модулями xfeatures2d из opencv_contrib, модуль dnn;
+1. OpenCV v4.1.0 с модулями xfeatures2d, dnn из opencv_contrib;
 2. Mobilenet-ssd v2 coco
 2. Пакет SFML Audio v2.4.2.
 3. Пакет Microsoft.CognitiveServices.Speech v.1.6.0.
